@@ -1,3 +1,3 @@
-module github.com/ahmed-023/bitget-helpers
+module github.com/WAQAR5/bitget-helpers
 
 go 1.19
